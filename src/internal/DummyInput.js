@@ -27,7 +27,6 @@ export default class DummyInput extends Component<any> {
           left: -100,
           opacity: 0,
           position: 'relative',
-          transform: 'scale(0)',
         }}
       />
     );
